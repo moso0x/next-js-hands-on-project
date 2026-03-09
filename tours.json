@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Maasai Mara Safari Adventure",
+    "info": "Experience the world-famous Maasai Mara with guided game drives and luxury camping under the African sky.",
+    "image": "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e",
+    "price": 1200
+  },
+  {
+    "id": 2,
+    "name": "Diani Beach Getaway",
+    "info": "Relax on the white sandy beaches of Diani with crystal clear waters and tropical sunshine.",
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+    "price": 850
+  },
+  {
+    "id": 3,
+    "name": "Mount Kenya Hiking Expedition",
+    "info": "Climb Africa’s second-highest mountain with experienced guides and breathtaking alpine scenery.",
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+    "price": 950
+  },
+  {
+    "id": 4,
+    "name": "Lake Nakuru Flamingo Tour",
+    "info": "Explore Lake Nakuru National Park known for its flamingos, rhinos, and stunning lake views.",
+    "image": "https://images.unsplash.com/photo-1516426122078-c23e76319801",
+    "price": 300
+  },
+  {
+    "id": 5,
+    "name": "Amboseli Elephant Safari",
+    "info": "See large elephant herds with Mount Kilimanjaro as the dramatic backdrop.",
+    "image": "https://images.unsplash.com/photo-1508675801627-066ac4346a6c",
+    "price": 780
+  },
+  {
+    "id": 6,
+    "name": "Samburu Cultural Safari",
+    "info": "Discover Samburu culture and unique wildlife species only found in Northern Kenya.",
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027",
+    "price": 670
+  }
+]
